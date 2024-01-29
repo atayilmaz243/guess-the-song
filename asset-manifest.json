@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/guess-the-song/static/css/main.972eae01.css",
-    "main.js": "/guess-the-song/static/js/main.dec0fdee.js",
+    "main.js": "/guess-the-song/static/js/main.47705874.js",
     "index.html": "/guess-the-song/index.html",
     "main.972eae01.css.map": "/guess-the-song/static/css/main.972eae01.css.map",
-    "main.dec0fdee.js.map": "/guess-the-song/static/js/main.dec0fdee.js.map"
+    "main.47705874.js.map": "/guess-the-song/static/js/main.47705874.js.map"
   },
   "entrypoints": [
     "static/css/main.972eae01.css",
-    "static/js/main.dec0fdee.js"
+    "static/js/main.47705874.js"
   ]
 }
